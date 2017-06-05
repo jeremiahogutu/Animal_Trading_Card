@@ -1,0 +1,25 @@
+/* add your CSS here */
+.container {
+	width: 300px;
+	box-shadow: 10px 8px 5px #d9d9d9;
+}
+
+.content {
+	border: solid gray;
+	border-width: 1px;
+	padding: 20px;
+}
+
+ul{
+	list-style: none;
+	padding: 0px;
+}
+
+h3{
+	font-size: 2em;
+}
+
+img{
+	margin-bottom: 20px;
+}
+
